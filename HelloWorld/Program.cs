@@ -13,6 +13,11 @@ namespace HelloWorld
             Employee employee2 = new Employee();
             Console.WriteLine(employee1.Equals(employee2));
             Console.ReadLine();
+            //
+            //
+            //
+            //
+            //
         }
         
     }
